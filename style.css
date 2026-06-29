@@ -1,0 +1,7 @@
+body{margin:0;font-family:Arial;background:#ffd400}
+.hero{background:#00a99d;color:#fff;text-align:center;padding:60px 20px}
+.grid{display:grid;grid-template-columns:repeat(auto-fit,minmax(180px,1fr));gap:15px;padding:20px}
+.card{background:#fff;padding:15px;border-radius:12px;text-align:center;box-shadow:0 3px 8px rgba(0,0,0,.2)}
+button{background:#00a99d;color:#fff;border:none;padding:10px 15px;border-radius:8px;cursor:pointer}
+#cart{position:fixed;right:10px;bottom:10px;background:#fff;padding:10px;border-radius:10px;width:220px}
+footer{text-align:center;padding:20px;background:#00a99d;color:#fff}
